@@ -1,6 +1,6 @@
 # DialogJS  
 
-###插件演示地址：http://www.jq22.com/jquery-info18910
+### 插件演示地址：http://www.jq22.com/jquery-info18910
 
 Simple popup for webapp
 基于Zepto.js或者Jquery的API，原生javascript也可以实现
